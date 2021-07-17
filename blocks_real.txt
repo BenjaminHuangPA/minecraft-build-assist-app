@@ -1,0 +1,647 @@
+Acacia Button-12-73
+Acacia Door-11-63
+Acacia Door (lower)-10-63
+Acacia Fence-19-59
+Acacia Fence Gate-13-73
+Acacia Leaves-10-71
+Acacia Log-20-53
+Acacia Log (side)-19-53
+Acacia Planks-11-58
+Acacia Pressure Plate-14-73
+Acacia Sapling-6-59
+Acacia Wall Sign-8-48
+Acacia Slab-1-82
+Acacia Stairs-13-61
+Acacia Trapdoor-22-33
+Acacia Wood-19-53
+Activator Rail-15-73
+Allium-9-70
+Ancient Debris-9-87
+Andesite-19-51
+Andesite Slab-9-82
+Andesite Stairs-17-61
+Andesite Wall-11-46
+Anvil-12-63
+Azure Bluet-10-70
+Barrel-3-42
+Basalt-21-87
+Beacon-5-77
+Bedrock-20-51
+Beehive-15-79
+Bee Nest-23-79
+Beetroots-14-71
+Bell-2-50
+Birch Button-0-74
+Birch Door-15-63
+Birch Door (lower)-14-63
+Birch Fence-21-59
+Birch Fence Gate-1-74
+Birch Leaves-4-71
+Birch Log-23-53
+Birch Log (side)-21-53
+Birch Planks-14-53
+Birch Pressure Plate-2-74
+Birch Sapling-7-59
+Birch Standing Sign-12-48
+Birch Wall Sign-13-49
+Birch Slab-11-82
+Birch Stairs-18-61
+Birch Trapdoor-20-33
+Birch Wood-22-53
+Black Bed-15-65
+Black Bed-14-65
+Black Carpet-16-45
+Black Concrete Powder-5-27
+Black Glazed Terracotta-21-27
+Black Stained Glass-4-57
+Black Stained Glass Pane-5-80
+Black Terracotta-16-14
+Black Wool-1-7
+Blast Furnace-6-42
+Block of Coal-4-58
+Block of Diamond-5-58
+Block of Emerald-6-58
+Block of Gold-7-58
+Block of Iron-8-58
+Block of Netherite-10-87
+Block of Redstone-10-58
+Blue Bed-22-65
+Blue Bed (foot)-21-65
+Blue Carpet-17-45
+Blue Concrete Powder-16-27
+Blue Ice-0-33
+Blue Glazed Terracotta-8-28
+Blue Orchid-11-70
+Blue Stained Glass-5-57
+Blue Stained Glass Pane-2-80
+Blue Terracotta-20-13
+Blue Wool-1-11
+Bone Block-22-51
+Bookshelf-17-58
+Brain Coral-2-23
+Brain Coral Block-14-19
+Brain Coral Fan-12-8
+Brewing stand-16-63
+Bricks-18-58
+Brick Slab-13-82
+Brick Stairs-19-61
+Brick Wall-12-46
+Brown Bed-5-66
+Brown Bed (foot)-4-66
+Brown Carpet-18-45
+Brown Concrete Powder-20-27
+Brown Glazed Terracotta-13-28
+Brown Mushroom-18-71
+Brown Mushroom Block-19-71
+Brown Stained Glass-6-57
+Brown Stained Glass Pane-3-80
+Brown Terracotta-16-15
+Brown Wool-1-10
+Bubble Coral-22-23
+Bubble Coral Block-15-19
+Bubble Coral Fan-19-10
+Cactus-4-59
+Campfire-0-50
+Carrots-20-71
+Cartography Table-9-42
+Carved Pumpkin-0-72
+Cauldron-19-63
+Chest-19-6
+Chiseled Sandstone-0-52
+Chiseled Stone Bricks-6-60
+Chiseled Red Sandstone-23-52
+Chorus Flower-14-14
+Chorus Plant-15-14
+Clay-21-54
+Coal Ore-20-57
+Coarse Dirt-19-23
+Cobblestone-0-1
+Cobblestone Slab-15-82
+Cobblestone Stairs-20-61
+Cobblestone Wall-21-8
+Cobweb-11-0
+Composter-1-50
+Conduit-1-83
+Cornflower-19-41
+Cracked Stone Bricks-7-60
+Crafting Table-0-64
+Creeper Head-21-9
+Crimson Button-14-89
+Crimson Door-6-89
+Crimson Door (lower)-5-89
+Crimson Fence-14-88
+Crimson Fence Gate-15-89
+Crimson Fungus-11-87
+Crimson Hyphae-4-88
+Crimson Nylium-18-87
+Crimson Planks-16-88
+Crimson Pressure Plate-16-89
+Crimson Standing Sign-10-88
+Crimson Wall Sign-11-88
+Crimson Roots-11-89
+Crimson Slab-19-88
+Crimson Stairs-2-89
+Crimson Stem-3-88
+Crimson Stem (side)-4-88
+Crimson Trapdoor-17-89
+Crying Obsidian-4-90
+Cut Sandstone-5-52
+Cut Sandstone Slab-19-82
+Cut Red Sandstone-4-52
+Cut Red Sandstone Slab-17-82
+Cyan Bed-12-66
+Cyan Bed (foot)-11-66
+Cyan Carpet-19-45
+Cyan Concrete Powder-15-27
+Cyan Glazed Terracotta-6-28
+Cyan Stained Glass-7-57
+Cyan Stained Glass Pane-4-80
+Cyan Terracotta-18-15
+Cyan Wool-1-13
+Dandelion-12-70
+Dark Oak Button-5-74
+Dark Oak Door-3-64
+Dark Oak Door (lower)-2-64
+Dark Oak Fence-23-59
+Dark Oak Fence Gate-6-74
+Dark Oak Leaves-3-71
+Dark Oak Log-2-54
+Dark Oak Log (side)-1-54
+Dark Oak Planks-12-58
+Dark Oak Pressure Plate-7-74
+Dark Oak Sapling-8-59
+Dark Oak Slab-21-82
+Dark Oak Stairs-23-61
+Dark Oak Standing Sign-18-48
+Dark Oak Wall Sign-19-48
+Dark Oak Trapdoor-23-33
+Dark Oak Wood-1-54
+Dark Prismarine-8-60
+Dark Prismarine Slab-23-82
+Dark Prismarine Stairs-0-62
+Daylight Detector-9-3
+Dead Brain Coral-14-41
+Dead Brain Coral Block-1-22
+Dead Brain Coral Fan-12-35
+Dead Bubble Coral-15-41
+Dead Bubble Coral Block-2-22
+Dead Bubble Coral Fan-11-35
+Dead Bush-1-70
+Dead Fire Coral-16-41
+Dead Fire Coral Block-0-23
+Dead Fire Coral Fan-13-35
+Dead Horn Coral-17-41
+Dead Horn Coral Block-1-23
+Dead Horn Coral Fan-14-35
+Dead Tube Coral-13-41
+Dead Tube Coral Block-0-22
+Dead Tube Coral Fan-15-35
+Detector Rail-8-74
+Diamond Ore-21-57
+Diorite-6-19
+Diorite Slab-1-83
+Diorite Stairs-1-62
+Diorite Wall-13-46
+Dirt-19-77
+Dispenser-16-58
+Dragon Egg-7-10
+Dragon Head-14-15
+Dried Kelp Block-2-19
+Dropper-12-59
+Emerald Ore-22-57
+Enchanting Table-6-64
+End Portal Frame-15-9
+End Portal Frame (filled)-15-10
+End Rod-13-76
+End Stone-8-52
+End Stone Bricks-9-60
+End Stone Brick Slab-13-84
+End Stone Brick Stairs-2-62
+End Stone Brick Wall-14-46
+Farmland-7-72
+Fern-2-70
+Fire Coral-0-24
+Fire Coral Block-16-19
+Fire Coral Fan-9-11
+Fletching Table-12-42
+Furnace-1-59
+Gold Ore-23-57
+Glass-2-63
+Glass Pane-2-63
+Granite-11-52
+Granite Slab-17-84
+Granite Stairs-3-62
+Granite Wall-15-46
+Grass-3-70
+Grass Path-13-56
+Grass Block-6-81
+Gravel-13-52
+Gray Bed-19-66
+Gray Bed (foot)-18-66
+Gray Carpet-20-45
+Gray Concrete Powder-6-27
+Gray Glazed Terracotta-22-27
+Gray Stained Glass-8-57
+Gray Stained Glass Pane-14-80
+Gray Terracotta-4-14
+Gray Wool-2-7
+Green Bed-2-67
+Green Bed (foot)-1-67
+Green Carpet-21-45
+Green Concrete Powder-13-27
+Green Glazed Terracotta-5-28
+Green Stained Glass-9-57
+Green Stained Glass Pane-6-80
+Green Terracotta-22-13
+Green Wool-1-9
+Grindstone-7-43
+Hay Bale (1)-10-72
+Hay Bale (2)-11-72
+Heavy Weighted Pressure Plate-10-74
+Honey Block-18-81
+Honeycomb Block-20-81
+Hopper-11-74
+Horn Coral-1-24
+Horn Coral Block-0-241
+Horn Coral Fan-12-14
+Ice-14-52
+Infested Cobblestone-0-1
+Infested Chiseled Stone Bricks-6-60
+Infested Cracked Stone Bricks-7-60
+Infested Mossy Stone Bricks-10-60
+Infested Stone-18-50
+Infested Stone Bricks-11-60
+Iron Bars-14-56
+Iron Door-12-64
+Iron Door-11-64
+Iron Ore-0-58
+Iron Trapdoor-14-74
+Jack O'Lantern-11-72
+Jukebox-11-4
+Jungle Button-15-74
+Jungle Door-16-64
+Jungle Door (lower)-15-64
+Jungle Fence-0-60
+Jungle Fence Gate-16-74
+Jungle Leaves-6-71
+Jungle Log-5-54
+Jungle Log (side)-3-54
+Jungle Planks-13-58
+Jungle Pressure Plate-17-74
+Jungle Sapling-9-59
+Jungle Standing Sign-22-48
+Jungle Wall Sign-23-48
+Jungle Slab-19-34
+Jungle Stairs-4-62
+Jungle Trapdoor-21-33
+Jungle Wood-4-54
+Ladder-15-56
+Lantern-2-48
+Lapis Lazuli Block-9-58
+Lapis Lazuli Ore-1-58
+Large Fern-4-70
+Lava-3-81
+Lectern-11-43
+Lever-19-74
+Light Blue Bed-9-67
+Light Blue Bed (foot)-8-67
+Light Blue Carpet-17-45
+Light Blue Concrete Powder-15-27
+Light Blue Glazed Terracotta-7-28
+Light Blue Stained Glass-11-57
+Light Blue Stained Glass Pane-7-80
+Light Blue Terracotta-20-14
+Light Blue Wool-2-11
+Light Gray Bed-16-66
+Light Gray Bed (foot)-15-66
+Light Gray Carpet-22-45
+Light Gray Concrete Powder-7-27
+Light Gray Glazed Terracotta-23-27
+Light Gray Stained Glass-10-57
+Light Gray Stained Glass Pane-14-80
+Light Gray Terracotta-6-15
+Light Gray Wool-1-14
+Light Weighted Pressure Plate-20-74
+Lilac-12-16
+Lily of the Valley-20-41
+Lily Pad-5-70
+Lime Bed-23-67
+Lime Bed (foot)-22-67
+Lime Concrete Powder-12-27
+Lime Carpet-23-45
+Lime Glazed Terracotta-4-28
+Lime Stained Glass-12-57
+Lime Stained Glass Pane-8-80
+Lime Terracotta-22-14
+Lime Wool-2-9
+Loom-2-43
+Magenta Bed-6-68
+Magenta Bed (foot)-5-68
+Magenta Carpet-0-46
+Magenta Concrete Powder-18-27
+Magenta Glazed Terracotta-10-28
+Magenta Stained Glass-13-57
+Magenta Stained Glass Pane-9-80
+Magenta Terracotta-19-14
+Magenta Wool-2-12
+Melon-12-72
+Melon Stem-15-6
+Mossy Cobblestone-16-52
+Mossy Cobblestone Slab-21-84
+Mossy Cobblestone Stairs-5-62
+Mossy Cobblestone Wall-22-8
+Mossy Stone Bricks-10-60
+Mossy Stone Brick Slab-23-84
+Mossy Stone Brick Stairs-6-62
+Mossy Stone Brick Wall-16-46
+Mushroom Stem-13-72
+Mycelium-18-52
+Nether Bricks-12-60
+Nether Brick Fence-2-60
+Nether Brick Slab-1-85
+Nether Brick Stairs-7-62
+Nether Brick Wall-17-46
+Nether Quartz Ore-2-57
+Nether Sprouts-12-89
+Nether Wart-16-72
+Netherrack-19-52
+Note Block-14-64
+Oak Button-22-74
+Oak Door-18-64
+Oak Door (lower)-17-64
+Oak Fence-3-60
+Oak Fence Gate-23-74
+Oak Leaves-2-71
+Oak Log-8-54
+Oak Log (side)-7-54
+Oak Planks-14-58
+Oak Pressure Plate-0-75
+Oak Wood-7-55
+Oak Sapling-10-59
+Oak Slab-15-84
+Oak Stairs-8-62
+Oak Standing Sign-9-48
+Oak Wall Sign-11-48
+Oak Trapdoor-19-33
+Observer-19-64
+Obsidian-20-52
+Orange Bed-13-68
+Orange Bed (foot)-12-68
+Orange Carpet-1-46
+Orange Concrete Powder-10-27
+Orange Glazed Terracotta-2-28
+Orange Stained Glass-14-57
+Orange Stained Glass Pane-10-80
+Orange Terracotta-18-14
+Orange Tulip-15-70
+Orange Wool-18-78
+Oxeye Daisy-16-70
+Packed Ice-21-52
+Peony-12-16
+Pink Bed-20-68
+Pink Bed (foot)-19-68
+Pink Concrete Powder-19-27
+Pink Carpet-2-46
+Pink Glazed Terracotta-11-28
+Pink Stained Glass-15-57
+Pink Stained Glass Pane-11-80
+Pink Terracotta-23-14
+Pink Tulip-7-16
+Pink Wool-2-8
+Piston-4-75
+Piston (north)-2-75
+Piston (south)-6-75
+Piston (east)-7-75
+Piston (west)-8-75
+Piston (down)-3-75
+Player Head-20-9
+Podzol-23-52
+Polished Andesite-20-56
+Polished Andesite Slab-3-85
+Polished Andesite Stairs-9-62
+Polished Basalt-20-87
+Polished Diorite-21-56
+Polished Diorite Slab-5-85
+Polished Diorite Stairs-10-62
+Polished Granite-22-56
+Polished Granite Slab-7-85
+Polished Granite Stairs-11-62
+Poppy-19-70
+Potatoes-19-72
+Powered Rail-11-75
+Prismarine-0-53
+Prismarine Bricks-13-60
+Prismarine Brick Slab-9-85
+Prismarine Brick Stairs-12-62
+Prismarine Slab-11-85
+Prismarine Stairs-13-62
+Prismarine Wall-18-46
+Pumpkin-0-73
+Pumpkin Stem-15-6
+Purple Bed-3-69
+Purple Bed (foot)-2-69
+Purple Carpet-1-48
+Purple Concrete Powder-17-27
+Purple Glazed Terracotta-9-28
+Purple Stained Glass-16-57
+Purple Stained Glass Pane-12-80
+Purple Terracotta-19-15
+Purple Wool-1-12
+Purpur Block-13-59
+Purpur Pillar-16-59
+Purpur Pillar (side)-14-59
+Purpur Slab-13-85
+Purpur Stairs-14-62
+Quartz Slab-23-85
+Quartz Stairs-19-62
+Rail-14-75
+Red Bed-10-69
+Red Bed (foot)-9-69
+Red Carpet-3-46
+Red Concrete Powder-9-27
+Red Mushroom-1-73
+Red Mushroom Block-2-73
+Red Nether Bricks-14-60
+Red Nether Brick Slab-17-85
+Red Nether Brick Stairs-16-62
+Red Nether Brick Wall-19-46
+Red Sandstone-3-53
+Red Glazed Terracotta-1-28
+Red Sandstone Slab-19-85
+Red Sandstone Stairs-17-62
+Red Sandstone Wall-20-46
+Red Stained Glass-17-57
+Red Stained Glass Pane-13-80
+Red Terracotta-23-13
+Red Tulip-20-70
+Red Wool-1-8
+Redstone Comparator-10-75
+Redstone-19-8
+Redstone (east/west)-5-10
+Redstone (north/south)-13-18
+Redstone (south/west)-9-2
+Redstone (north/west)-7-13
+Redstone (south/east)-23-4
+Redstone (north/east)-12-18
+Redstone (north/south/west)-16-19
+Redstone (east/south/west)-23-7
+Redstone (east/north/west)-13-10
+Redstone (east/north/south)-8-10
+Redstone (east/north/south/west)-4-10
+Redstone Lamp-22-75
+Redstone Ore-3-58
+Redstone Repeater-13-75
+Redstone Torch-1-76
+Rose Bush-11-16
+Sand-5-53
+Sandstone-8-53
+Sandstone Slab-3-86
+Sandstone Stairs-18-62
+Sandstone Wall-21-46
+Scaffolding-18-43
+Sea Grass-3-19
+Sea Lantern-0-20
+Sea Pickle-7-33
+Skeleton Skull-16-76
+Slime Block-17-59
+Smithing Table-15-42
+Smoker-18-42
+Smooth Quartz Slab-16-85
+Smooth Quartz Stairs-15-62
+Smooth Red Sandstone Slab-1-86
+Smooth Red Sandstone Stairs-20-62
+Smooth Sandstone Slab-3-86
+Smooth Sandstone Stairs-21-62
+Smooth Stone-18-59
+Smooth Stone Slab-5-86
+Snow-9-22
+Snow Block-10-53
+Soul Lantern-7-89
+Soul Sand-13-53
+Soul Soil-23-87
+Soul Torch-16-87
+Spawner (blaze)-6-77
+Spawner (cave spider)-7-77
+Spawner (pig)-8-77
+Spawner (silverfish)-9-77
+Spawner (skeleton)-10-77
+Spawner (spider)-11-77
+Spawner (zombie)-12-77
+Sponge-0-65
+Spruce Button-4-76
+Spruce Door-2-65
+Spruce Door (lower)-1-65
+Spruce Fence-23-62
+Spruce Fence Gate-5-76
+Spruce Log-11-54
+Spruce Log (side)-10-54
+Spruce Planks-15-58
+Spruce Pressure Plate-6-76
+Spruce Sapling-11-59
+Spruce Standing Sign-8-49
+Spruce Wall Sign-9-49
+Spruce Slab-7-86
+Spruce Stairs-22-62
+Spruce Trapdoor-7-76
+Spruce Wood-10-54
+Spruce Leaves-12-71
+Sunflower-9-16
+Sticky Piston-5-75
+Sticky Piston (north)-2-75
+Sticky Piston (south)-6-75
+Sticky Piston (east)-7-75
+Sticky Piston (west)-8-75
+Sticky Piston (down)-3-75
+Stone-18-51
+Stone Bricks-11-60
+Stone Brick Slab-9-86
+Stone Brick Stairs-23-62
+Stone Brick Wall-22-46
+Stone Button-8-76
+Stone Pressure Plate-9-76
+Stone Slab-11-86
+Stone Stairs-1-48
+Stonecutter-22-42
+Stripped Acacia Log-29-34
+Stripped Acacia Log (side)-27-34
+Stripped Acacia Wood-28-34
+Stripped Birch Log-22-34
+Stripped Birch Log (side)-20-34
+Stripped Birch Wood-21-34
+Stripped Crimson Stem-5-88
+Stripped Crimson Stem (side)-4-88
+Stripped Crimson Hyphae-4-88
+Stripped Dark Oak Log-1-35
+Stripped Dark Oak Log (side)-23-34
+Stripped Jungle Log-4-35
+Stripped Jungle Log (side)-3-35
+Stripped Jungle Wood-3-35
+Stripped Oak Log-7-35
+Stripped Oak Log (side)-5-35
+Stripped Oak Wood-6-35
+Stripped Spruce Log-10-35
+Stripped Spruce Log (side)-8-35
+Stripped Spruce Wood-9-35
+Stripped Warped Stem-7-88
+Stripped Warped Stem (side)-6-88
+Stripped Warped Hyphae-6-88
+Sugarcane-3-73
+Sweet Berry Bush-20-49
+Tall Grass-7-70
+Tall Seagrass-1-90
+Tall Seagrass (top)-21-23
+Target-2-90
+Terracotta-9-55
+Torch-6-65
+TNT-3-65
+Trapped Chest-16-11
+Tripwire Hook-10-76
+Tripwire-18-8
+Tube Coral-12-19
+Tube Coral Block-4-19
+Tube Coral Fan-18-3
+Vines-8-70
+Wall Torch-6-65
+Water-15-77
+Warped Button-18-89
+Warped Door-10-89
+Warped Door (lower)-9-89
+Warped Fence-15-88
+Warped Fence Gate-19-89
+Warped Fungus-12-87
+Warped Hyphae-8-88
+Warped Nylium-15-87
+Warped Planks-17-88
+Warped Pressure Plate-20-89
+Warped Standing Sign-12-88
+Warped Wall Sign-13-88
+Warped Roots-13-89
+Warped Slab-0-89
+Warped Stairs-3-90
+Warped Stem-9-88
+Warped Stem (side)-8-88
+Warped Trapdoor-21-89
+Wet Sponge-7-65
+Wheat-4-73
+White Bed-17-69
+White Bed (foot)-16-69
+White Carpet-4-46
+White Concrete Powder-8-27
+White Glazed Terracotta-0-28
+White Stained Glass-18-57
+White Stained Glass Pane-15-80
+White Terracotta-17-14
+White Tulip-6-16
+White Wool-8-79
+Wither Rose-20-41
+Wither Skeleton Skull-17-76
+Yellow Bed-0-70
+Yellow Bed (foot)-23-69
+Yellow Carpet-5-46
+Yellow Concrete Powder-11-27
+Yellow Glazed Terracotta-3-28
+Yellow Stained Glass-19-57
+Yellow Stained Glass Pane-16-80
+Yellow Terracotta-21-14
+Yellow Wool-2-10
+Zombie Head-18-76

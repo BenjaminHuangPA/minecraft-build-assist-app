@@ -1,0 +1,647 @@
+Acacia Button-01acacia planks-01
+Acacia Door-02acacia planks-01
+Acacia Door-04acacia planks-01
+Acacia Fence-02acacia planks*02any planks-01
+Acacia Fence Gate-02any planks*02acacia planks-01
+Acacia Leaves-01Acacia Leaves-01
+Acacia Log-01acacia log-01
+Acacia Log (side)-01acacia log-01
+Acacia Planks-01acacia planks-01
+Acacia Pressure Plate-02acacia planks-01
+Acacia Sapling-01acacia sapling-01
+Acacia Wall Sign-02any planks*06acacia planks-01
+Acacia Slab-01acacia planks-01
+Acacia Stairs-07acacia planks-04
+Acacia Trapdoor-06acacia planks-01
+Acacia Wood-04acacia log-01
+Activator Rail-02any planks*01redstone dust*06iron ingot-06
+Allium-01allium-01
+Ancient Debris-01ancient debris-01
+Andesite-01andesite-01
+Andesite Slab-01andesite-01
+Andesite Stairs-07andesite-04
+Andesite Wall-06andesite-06
+Anvil-31iron ingot-01
+Azure Bluet-01azure bluet-01
+Barrel-09any planks-01
+Basalt-01Basalt-01
+Beacon-03obsidian*01nether star*05glass-01
+Bedrock-01Bedrock-01
+Beehive-06any planks*03honeycomb-01
+Bee Nest-01bee nest-01
+Beetroots-01beetroots-01
+Bell-01Bell-01
+Birch Button-01birch planks-01
+Birch Door-02birch planks-01
+Birch Door (lower)-04birch planks-01
+Birch Fence-02birch planks*02any planks-01
+Birch Fence Gate-02any planks*02birch planks-01
+Birch Leaves-01birch leaves-01
+Birch Log-01birch log-01
+Birch Log (side)-01birch log-01
+Birch Planks-01birch planks-01
+Birch Pressure Plate-02birch planks-01
+Birch Standing Sign-02any planks*02birch planks-01
+Birch Wall Sign-02any planks*02birch planks-01
+Birch Sapling-01birch sapling-01
+Birch Slab-01birch planks-06
+Birch Stairs-07birch planks-04
+Birch Trapdoor-06birch planks-02
+Birch Wood-04birch log-03
+Black Bed-01any planks*01white wool*01ink sac-01
+Black Bed (foot)-02any planks*02white wool*02ink sac-01
+Black Carpet-02white wool*02ink sac-03
+Black Concrete Powder-04sand*01ink sac*04gravel-08
+Black Glazed Terracotta-08clay*01ink sac-08
+Black Stained Glass-08glass*01ink sac-08
+Black Stained Glass Pane-06glass*01ink sac-16
+Black Terracotta-08terracotta*01ink sac-08
+Black Wool-01white wool*01ink sac-01
+Blast Furnace-08cobblestone*03stone*05iron ingot-01
+Block of Coal-09coal-01
+Block of Diamond-09diamond-01
+Block of Emerald-09emerald-01
+Block of Gold-09gold ingot-01
+Block of Iron-09iron ingot-01
+Block of Netherite-09netherite ingot-01
+Block of Redstone-09redstone dust-01
+Blue Bed-01any planks*01white wool*01lapis lazuli-01
+Blue Bed (foot)-02any planks*02white wool*02lapis lazuli-01
+Blue Carpet-02white wool*02lapis lazuli-01
+Blue Concrete Powder-04sand*01lapis lazuli*04gravel-08
+Blue Ice-81ice-01
+Blue Glazed Terracotta-01clay*01lapis lazuli-08
+Blue Orchid-01blue orchid-01
+Blue Stained Glass-01glass*01lapis lazuli-16
+Blue Stained Glass Pane-08glass*01lapis lazuli-16
+Blue Terracotta-01terracotta*01lapis lazuli-08
+Blue Wool-01white wool*01lapis lazuli-01
+Bone Block-09bone meal-01
+Bookshelf-06any planks*03leather*09paper-01
+Brain Coral-01brain coral-01
+Brain Coral Block-01brain coral block-01
+Brain Coral Fan-01brain coral fan-01
+Brewing stand-03cobblestone*01blaze rod-01
+Bricks-04bricks-01
+Brick Slab-01bricks-06
+Brick Stairs-07bricks-04
+Brick Wall-06bricks-06
+Brown Bed-01any planks*01white wool*01cocoa beans-01
+Brown Bed (foot)-02any planks*02white wool*02cocoa beans-01
+Brown Carpet-02white wool*02cocoa beans-01
+Brown Concrete Powder-04sand*01cocoa beans*04gravel-08
+Brown Glazed Terracotta-01clay*01cocoa beans-08
+Brown Mushroom-01brown mushroom-01
+Brown Mushroom Block-01brown mushroom block-01
+Brown Stained Glass-01glass*01cocoa beans-16
+Brown Stained Glass Pane-08glass*01cocoa beans-16
+Brown Terracotta-01terracotta*01cocoa beans-08
+Brown Wool-01white wool*01cocoa beans-01
+Bubble Coral-01bubble coral-01
+Bubble Coral Block-01bubble coral block-01
+Bubble Coral Fan-19-10
+Cactus-01cactus-01
+Campfire-03 any log*02any planks*01coal-01
+Carrots-01carrots-01
+Cartography Table-04any planks*03sugar cane-01
+Carved Pumpkin-01pumpkin-01
+Cauldron-07iron ingot-01
+Chest-08any planks-01
+Chiseled Sandstone-01sand-01
+Chiseled Stone Bricks-04stone-01
+Chiseled Red Sandstone-04sand-01
+Chorus Flower-01chorus flower-01
+Chorus Plant-01chorus plant-01
+Clay-01clay-01
+Coal Ore-01coal ore-01
+Coarse Dirt-02dirt*02gravel-04
+Cobblestone-01cobblestone-01
+Cobblestone Slab-03cobblestone-06
+Cobblestone Stairs-07cobblestone-04
+Cobblestone Wall-06cobblestone-06
+Cobweb-01cobweb-01
+Composter-06any planks-01
+Conduit-08nautilus*01heart of the sea-01
+Cornflower-01cornflower-01
+Cracked Stone Bricks-04stone-01
+Crafting Table-04any planks-01
+Creeper Head-01creeper head-01
+Crimson Button-01crimson planks-01
+Crimson Door-02crimson planks-01
+Crimson Door-04crimson planks-01
+Crimson Fence-02crimson planks*02any planks-01
+Crimson Fence Gate-02any planks*02crimson planks-01
+Crimson Fungus-01crimson fungus-01
+Crimson Hyphae-04crimson stem-03
+Crimson Nylium-01crimson nylium-01
+Crimson Planks-01crimson planks-01
+Crimson Pressure Plate-02crimson stem-01
+Crimson Standing Sign-02any planks*06crimson planks-01
+Crimson Wall Sign-02any planks*06crimson planks-01
+Crimson Roots-01crimson roots-01
+Crimson Slab-01crimson stem-02
+Crimson Stairs-06crimson stairs-01
+Crimson Stem-01crimson stem-01
+Crimson Stem (side)-01crimson stem-01
+Crimson Trapdoor-06crimson planks-01
+Crying Obsidian-01crying obsidian-01
+Cut Sandstone-04sand-01
+Cut Sandstone Slab-01sandstone-02
+Cut Red Sandstone-04red sand-01
+Cut Red Sandstone Slab-01red sandstone-02
+Cyan Bed-01any planks*01white wool*01lapis lazuli*01cactus-01
+Cyan Bed (foot)-02any planks*02white wool*02lapis lazuli*02cactus-01
+Cyan Carpet-02white wool*02lapis lazuli*02cactus-03
+Cyan Concrete Powder-04sand*01lapis lazuli*01cactus*04gravel-08
+Cyan Glazed Terracotta-01clay*01lapis lazuli*01cactus-08
+Cyan Stained Glass-01glass*01lapis lazuli*01cactus-16
+Cyan Stained Glass Pane-08glass*01lapis lazuli*01cactus-16
+Cyan Terracotta-01terracotta*01lapis lazuli-08
+Cyan Wool-01white wool*01lapis lazuli*01cactus-01
+Dandelion-01dandelion-01
+Dark Oak Button-01dark oak planks-01
+Dark Oak Door-02dark oak planks-01
+Dark Oak Door (lower)-04dark oak planks-01
+Dark Oak Fence-02dark oak planks*02any planks-01
+Dark Oak Fence Gate-02any planks*02dark oak planks-01
+Dark Oak Leaves-01dark oak leaves-01
+Dark Oak Log-01dark oak log-01
+Dark Oak Log (side)-01dark oak log-01
+Dark Oak Planks-01dark oak planks-01
+Dark Oak Pressure Plate-02dark oak planks-01
+Dark Oak Sapling-01dark oak sapling-01
+Dark Oak Slab-03dark oak planks-06
+Dark Oak Stairs-07dark oak-04
+Dark Oak Standing Sign-02any planks*06dark oak planks-01
+Dark Oak Wall Sign-02any planks*06dark oak planks-01
+Dark Oak Trapdoor-06dark oak planks-01
+Dark Oak Wood-04dark oak log-01
+Dark Prismarine-08prismarine shard*01black dye-01
+Dark Prismarine Slab-24prismarine shard*03black dye-06
+Dark Prismarine Stairs-56prismarine shard*07black dye-04
+Daylight Detector-03sand*03nether quartz*03any planks-01
+Dead Brain Coral-01dead brain coral-01
+Dead Brain Coral Block-01dead brain coral block-01
+Dead Brain Coral Fan-01dead brain coral fan-01
+Dead Bubble Coral-01dead bubble coral-01
+Dead Bubble Coral Block-01dead bubble coral block-01
+Dead Bubble Coral Fan-01dead bubble coral fan-01
+Dead Bush-01dead bush-01
+Dead Fire Coral-01dead fire coral-01
+Dead Fire Coral Block-01dead fire coral block-01
+Dead Fire Coral Fan-01dead fire coral fan-01
+Dead Horn Coral-01dead horn coral-01
+Dead Horn Coral Block-01dead horn coral block-01
+Dead Horn Coral Fan-01dead horn coral fan-01
+Dead Tube Coral-01dead tube coral-01
+Dead Tube Coral Block-01dead tube coral block-01
+Dead Tube Coral Fan-01dead tube coral fan-01
+Detector Rail-02cobblestone*01redstone dust*06iron ingot-06
+Diamond Ore-01diamond ore-01
+Diorite-01diorite-01
+Diorie Slab-01diorite-02
+Diorite Stairs-07diorite-04
+Diorite Wall-06diorite-06
+Dirt-01dirt-01
+Dispenser-07cobblestone*01redstone*02any planks*01string-01
+Dragon Egg-01dragon egg-01
+Dragon Head-01dragon head-01
+Dried Kelp Block-09dried kelp-01
+Dropper-07cobblestone*01redstone dust-01
+Emerald Ore-01emerald ore-01
+Enchanting Table-04obsidian*02diamond*01leather*03paper-01
+End Portal Frame-01end portal frame-01
+End Portal Frame (filled)-01end portal frame*01eye of ender-01
+End Rod-01blaze rod*01chorus fruit-01
+End Stone-01end stone-01
+End Stone Bricks-04end stone-04
+End Stone Brick Slab-04end stone-02
+End Stone Brick Stairs-28end stone-04
+End Stone Brick Wall-08end stone-06
+Farmland-01dirt-01
+Fern-01fern-01
+Fire Coral-01fire coral-01
+Fire Coral Block-01fire coral block-01
+Fire Coral Fan-01fire coral fan-01
+Fletching Table-04any planks*02flint-01
+Furnace-08cobblestone-01
+Gold Ore-01gold ore-01
+Glass-01sand-01
+Glass Pane-06sand-16
+Granite-01granite-01
+Granite Slab-01granite-02
+Granite Stairs-07granite-04
+Granite Wall-06granite-06
+Grass-01grass-01
+Grass Path-01dirt-01
+Grass Block-01grass block-01
+Gravel-01gravel-01
+Gray Bed-01any planks*01ink sac*01bone meal-01
+Gray Bed (foot)-02any planks*02ink sac*02bone meal-01
+Gray Carpet-02white wool*02ink sac*02bone meal-01
+Gray Concrete Powder-04sand*01ink sac*01bone meal*04gravel-08
+Gray Glazed Terracotta-01clay*01ink sac*01bone meal-08
+Gray Stained Glass-01glass*01ink sac*01bone meal-16
+Gray Stained Glass Pane-08glass*01ink sac*01bone meal-16
+Gray Terracotta-01terracotta*01ink sac*01bone meal-08
+Gray Wool-01white wool*01ink sac*01bone meal-01
+Green Bed-01any planks*01white wool*01cactus-01
+Green Bed (foot)-02any planks*02white wool*02cactus-01
+Green Carpet-02white wool*02cactus-03
+Green Concrete Powder-04sand*01cactus*04gravel-08
+Green Glazed Terracotta-01clay*01cactus-08
+Green Stained Glass-01glass*01cactus-16
+Green Stained Glass Pane-08class*01cactus-16
+Green Terracotta-01terracotta*01cactus-08
+Green Wool-01white wool*01cactus-01
+Grindstone-04any planks*03stone-01
+Hay Bale (1)-09wheat-01
+Hay Bale (2)-09wheat-01
+Heavy Weighted Pressure Plate-02iron ingot-01
+Honey Block-04honey bottle-01
+Honeycomb Block-04honeycomb-01
+Hopper-08any planks*05iron ingot-01
+Horn Coral-01horn coral-01
+Horn Coral Block-01horn coral block-01
+Horn Coral Fan-01horn coral fan-01
+Ice-01ice-01
+Infested Cobblestone-01infested cobblestone-01
+Infested Chiseled Stone Bricks-01infested chiseled stone bricks-01
+Infested Cracked Stone Bricks-01infested cracked stone bricks-01
+Infested Mossy Stone Bricks-01infested mossy stone bricks-01
+Infested Stone-01infested stone-01
+infested Stone Bricks-01infested stone bricks-01
+Iron Bars-06iron ingot-16
+Iron Door-02iron ingot-01
+Iron Door-04iron ingot-01
+Iron Ore-01iron ore-01
+Iron Trapdoor-04iron ingot-01
+Jack O'Lantern-01pumpkin*02any planks*01coal-01
+Jukebox-08any planks*01diamond-01
+Jungle Button-01jungle planks-01
+Jungle Door-02jungle planks-01
+Jungle Door-04jungle planks-01
+Jungle Fence-02jungle planks*02any planks-01
+Jungle Fence Gate-02any planks*02jungle planks-01
+Jungle Leaves-01jungle leaves-01
+Jungle Log-01jungle log-01
+Jungle Log (side)-01jungle log (side)-01
+Jungle Planks-01jungle planks-01
+Jungle Pressure Plate-02jungle planks-01
+Jungle Sapling-01jungle sapling-01
+Jungle Standing Sign-02any planks*06jungle planks-01
+Jungle Wall Sign-02any planks*06jungle planks-01
+Jungle Slab-03jungle planks-06
+Jungle Stairs-07jungle planks-04
+Jungle Trapdoor-06jungle planks-01
+Jungle Wood-04jungle log-03
+Ladder-04any planks-03
+Lantern-02any planks*01coal*01iron ingot-01
+Lapis Lazuli Block-09lapis lazuli-01
+Lapis Lazuli Ore-01lapus lazuli ore-01
+Large Fern-01large fern-01
+Lava-01lava-01
+Lectern-09any planks*09 paper*03leather-01
+Lever-04any planks*01cobblestone-01
+Light Blue Bed-01any planks*01white wool*01lapis lazuli*01bone meal-01
+Light Blue Bed (foot)-02any planks*02white wool*02lapis lazuli*02bone meal-01
+Light Blue Carpet-02white wool*02ink sac*04bone meal-03
+Light Blue Concrete Powder-04sand*01lapis lazuli*01bone meal*04gravel-08
+Light Blue Glazed Terracotta-01clay*01lapis lazuli*01bone meal-08
+Light Blue Stained Glass-01glass*01lapis lazuli*01bone meal-16
+Light Blue Stained Glass Pane-08glass*01lapis lazuli*01bone meal-16
+Light Blue Terracotta-01terracotta*01lapis lazuli*01bone meal-08
+Light Blue Wool-01white wool*01lapis lazuli*01bone meal-01
+Light Gray Bed-01any planks*01white wool*01ink sac*02bone meal-01
+Light Gray Bed (foot)-02any planks*02white wool*02ink sac*04bone meal-01
+Light Gray Carpet-02ink sac*04bone meal*02white wool-03
+Light Gray Concrete Powder-04sand*01ink sac*02bone meal*04gravel-08
+Light Gray Glazed Terracotta-01clay*01ink sac*02bone meal-08
+Light Gray Stained Glass-01glass*01ink sac*02bone meal-16
+Light Gray Stained Glass Pane-08glass*01ink sac*02bone meal-16
+Light Gray Terracotta-01terracotta*01ink sac*02bone meal-08
+Light Gray Wool-01white wool*01ink sac*02bone meal-01
+Light Weighted Pressure Plate-02gold ingot-01
+Lilac-01lilac-01
+Lily of the Valley-01lily of the valley-01
+Lily Pad-01lily pad-01
+Lime Bed-01any planks*01white wool*01cactus*01bone meal-01
+Lime Bed (foot)-02any planks*02cactus*02bone meal-01
+Lime Carpet-02white wool*02cactus*02bone meal-01
+Lime Concrete Powder-04sand*01cactus*01bone meal*04gravel-08
+Lime Glazed Terracotta-01clay*01cactus*01bone meal-08
+Lime Stained Glass-01glass*01cactus*01bone meal-16
+Lime Stained Glass Pane-08glass*01cactus*01bone meal-16
+Lime Terracotta-01terracotta*01cactus*01bone meal-08
+Lime Wool-01white wool*01cactus*01bone meal-01
+Loom-02planks*02string-01
+Magenta Bed-01any planks*01white wool*02poppy*01lapis lazuli*01bone meal-01
+Magenta Bed (foot)-02any planks*02white wool*04poppy*02lapis lazuli*02bone meal-01
+Magenta Carpet-02white wool*04poppy*02lapis lazuli*02bone meal-03
+Magenta Concrete Powder-04sand*02poppy*01lapis lazuli*01bone meal*04gravel-08
+Magenta Glazed Terracotta-01clay*01lapis lazuli*01bone meal-08
+Magenta Stained Glass-01glass*02poppy*01lapis lazuli*01bone meal-16
+Magenta Stained Glass Pane-08glass*02poppy*01lapis lazuli*01bone meal-16
+Magenta Terracotta-01terracotta*02poppy*01lapis lazuli*01bone meal-08
+Magenta Wool-01white wool*02poppy*01lapis lazuli*01bone meal-01
+Melon-09melon slice-01
+Melon Stem-01melon seed-01
+Mossy Cobblestone-01cobblestone*01vines-01
+Mossy Cobblestone Slab-03cobblestone*03vines-03
+Mossy Cobblestone Stairs-07cobblestone*07vines-04
+Mossy Cobblestone Wall-06cobblestone-06
+Mossy Stone Bricks-04stone*01vines-01
+Mossy Stone Brick Slab-01stone*01vines-02
+Mossy Stone Brick Stairs-06stone*06vines-04
+Mossy Stone Brick Wall-06cobblestone*06vines-06
+Mushroom Stem-01mushroom stem-01
+Mycelium-01mycelium-01
+Nether Bricks-04netherrack-01
+Nether Brick Fence-18netherrack-01
+Nether Brick Slab-04netherrack-02
+Nether Brick Stairs-28netherrack-04
+Nether Brick Wall-24netherrack-06
+Nether Quartz Ore-01nether quartz ore-01
+Nether Sprouts-01nether sprouts-01
+Nether Wart-01nether wart-01
+Netherrack-01netherrack-01
+Note Block-08any planks*01redstone dust-01
+Oak Button-01oak planks-01
+Oak Door-02oak planks-01
+Oak Door (lower)-04oak planks-01
+Oak Fence-04oak planks*02any planks-01
+Oak Fence Gate-04oak planks-01
+Oak Leaves-01oak leaves-01
+Oak Log-01oak log-01
+Oak Log (side)-01oak log-01
+Oak Planks-01oak planks-01
+Oak Pressure Plate-02oak planks-01
+Oak Wood-04oak log-03
+Oak Sapling-01oak sapling-01
+Oak Slab-03oak planks-06
+Oak Stairs-07oak planks-04
+Oak Standing Sign-02any planks*06oak planks-01
+Oak Trapdoor-06oak planks-02
+Observer-06cobblestone*01nether quartz*02redstone dust-01
+Oak Wall Sign-02any planks*06oak planks-01
+Obsidian-01obsidian-01
+Orange Bed-01any planks*01white wool*01poppy*01dandelion-01
+Orange Bed (foot)-02any planks*02white wool*02poppy*02dandelion-01
+Orange Carpet-02white wool*02poppy*02dandelion-01
+Orange Concrete Powder-04sand*01poppy*01dandelion*04gravel-08
+Orange Glazed Terracotta-01clay*01poppy*01dandelion-08
+Orange Stained Glass-01glass*01poppy*01dandelion-16
+Orange Stained Glass Pane-08glass*01poppy*01dandelion-16
+Orange Terracotta-01terracotta*01poppy*01dandelion-08
+Orange Tulip-01orange tulip-01
+Orange Wool-01white wool*01poppy*01dandelion-01
+Oxeye Daisy-01oxeye daisy-01
+Packed Ice-09ice-01
+Peony-01peony-01
+Pink Bed-01any planks*01white wool*01poppy*01bonemeal-01
+Pink Bed (foot)-02any planks*02white wool*02poppy*02bonemeal-01
+Pink Carpet-02white wool*02poppy*02bonemeal-01
+Pink Concrete Powder-04sand*01poppy*01bone meal*04gravel-08
+Pink Glazed Terracotta-01clay*01poppy*01bonemeal-08
+Pink Stained Glass-01glass*01poppy*01bonemeal-16
+Pink Stained Glass Pane-08glass*01poppy*01bonemeal-16
+Pink Terracotta-01clay*01poppy*01bonemeal-08
+Pink Tulip-01pink tulip-01
+Pink Wool-01white wool*01poppy*01bonemeal-01
+Piston-03any planks*01iron ingot*01redstone dust*04cobbletone-01
+Piston (north)-03any planks*01iron ingot*01redstone dust*04cobbletone-01
+Piston (south)-03any planks*01iron ingot*01redstone dust*04cobbletone-01
+Piston (east)-03any planks*01iron ingot*01redstone dust*04cobbletone-01
+Piston (west)-03any planks*01iron ingot*01redstone dust*04cobbletone-01
+Piston (down)-03any planks*01iron ingot*01redstone dust*04cobbletone-01
+Player Head-01player head-01
+Podzol-01podzol-01
+Polished Andesite-01andesite-01
+Polished Andesite Slab-01andesite-02
+Polished Andesite Stairs-09andesite-04
+Polished Basalt-01basalt-01
+Polished Diorite-01diorite-01
+Polished Diorite Slab-01diorite-02
+Polished Diorite Stairs-07diorite-04
+Polished Granite-01granite-01
+Polished Granite Slab-01granite-02
+Polished Granite Stairs-07granite-04
+Poppy-01poppy-01
+Potatoes-01potato-01
+Powered Rail-06gold ingot*02planks*01redstone dust-01
+Prismarine-04prismarine shard-01
+Prismarine Bricks-09prismarine shard-01
+Prismarine Brick Slab-09prismarine shard-02
+Prismarine Brick Stairs-63prismarine shard-4
+Prismarine Slab-04prismarine-02
+Prismarine Stairs-07prismarine-04
+Prismarine Wall-24prismarine shard-06
+Pumpkin-01pumpkin-01
+Pumpkin Stem-01pumpkin seed-01
+Purple Bed-01any planks*01white wool*01poppy*01lapis lazuli-01
+Purple Bed (foot)-02any planks*02white wool*02poppy*02lapis lazuli-01
+Purple Carpet-02white wool*02poppy*02lapis lazuli-03
+Purple Concrete Powder-04sand*01poppy*01lapis lazuli*04gravel-08
+Purple Glazed Terracotta-01clay*01poppy*01lapis lazuli-08
+Purple Stained Glass-08glass*01poppy*01lapis lazuli-16
+Purple Stained Glass Pane-08glass*01poppy*01lapis lazuli-16
+Purple Terracotta-01clay*01poppy*01lapis lazuli-08
+Purple Wool-01white wool*01poppy*01lapis lazuli-01
+Purpur Block-04chorus fruit-01
+Purpur Pillar-04chorus fruit-01
+Purpur Pillar (side)-04chorus fruit-01
+Purpur Slab-04chorus fruit-02
+Purpur Stairs-28chorus fruit-04
+Quartz Slab-04nether quartz-02
+Quartz Stairs-07nether quartz-04
+Rail-06iron ingot*02any planks-16
+Red Bed-01any planks*01white wool*01poppy-01
+Red Bed (foot)-02any planks*02white wool*02poppy-01
+Red Carpet-02white wool*02poppy-01
+Red Concrete Powder-04sand*01poppy*04gravel-08
+Red Mushroom-01red mushroom-01
+Red Mushroom Block-01red mushroom block-08
+Red Nether Bricks-02netherrack*02nether wart-16
+Red Nether Brick Slab-02netherrack*02nether wart-16
+Red Nether Brick Stairs-14netherrack*14nether wart-04
+Red Nether Brick Wall-12netherrack*12nether wart-06
+Red Sandstone-04red sand-01
+Red Glazed Terracotta-01clay*01poppy-08
+Red Sandstone Slab-01red sandstone-02
+Red Sandstone Stairs-07red sandstone-04
+Red Sandstone Wall-06red sandstone-01
+Red Stained Glass-08glass*01poppy-16
+Red Stained Glass Pane-08glass*01poppy*01lapis lazuli-16
+Red Terracotta-01clay*01poppy-08
+Red Tulip-01red tulip-01
+Red Wool-01white wool*01poppy-01
+Redstone Comparator-03cobblestone*02any planks*03redstone dust*01nether quartz-01
+Redstone-01redstone dust-01
+Redstone (east/west)-01redstone dust-01
+Redstone (north/south)-01redstone dust-01
+Redstone (south/west)-01redstone dust-01
+Redstone (north/west)-01redstone dust-01
+Redstone (south/east)-01redstone dust-01
+Redstone (north/east)-01redstone dust-01
+Redstone (north/south/west)-01redstone dust-01
+Redstone (east/south/west)-01redstone dust-01
+Redstone (east/north/west)-01redstone dust-01
+Redstone (east/north/south)-01redstone dust-01
+Redstone (east/north/south/west)-01redstone dust-01
+Redstone Lamp-04glowstone dust*04redstone dust-01
+Redstone Ore-01redstone ore-01
+Redstone Repeater-03cobblestone*04any planks*03redstone dust-01
+Redstone Torch-01redstone ore*02any planks-01
+Rose Bush-01rose bush-01
+Sand-01sand-01
+Sandstone-04sand-01
+Sandstone Slab-04sand-02
+Sandstone Stairs-07sandstone-04
+Sandstone Wall-06sandstone-06
+Scaffolding-06bamboo*01string-06
+Sea Grass-01sea grass-01
+Sea Lantern-04prismarine shard*05prismarine crystals-01
+Sea Pickle-01sea pickle-01
+Skeleton Skull-01skeleton skull-01
+Slime Block-09slimeball-01
+Smithing Table-04any planks*02iron ingot-01
+Smoker-04any logs*08cobblestone-01
+Smooth Quartz Slab-04nether quartz-02
+Smooth Quartz Stairs-28nether quartz-04
+Smooth Red Sandstone Slab-04red sandstone-02
+Smooth Red Sandstone Stairs-07red sandstone-04
+Smooth Sandstone Slab-04sandstone-02
+Smooth Sandstone Stairs-07sandstone-04
+Smooth Stone-01cobblestone-01
+Smooth Stone Slab-01stone-02
+Snow-03snow block-06
+Snow Block-09snowball-01
+Soul Lantern-01soul soil*02any planks*01coal*01iron ingot-01
+Soul Sand-01soul sand-01
+Soul Soil-01soul soil-01
+Soul Torch-01soul soil*02any planks*01coal-01
+Spawner (blaze)-01spawner (blaze)-01
+Spawner (cave spider)-01spawner (cave spider)-01
+Spawner (pig)-01spawner (pig)-01
+Spawner (silverfish)-01spawner (silverfish)-01
+Spawner (skeleton)-01spawner (skeleton)-01
+Spawner (spider)-01spawner (spider)-01
+Spawner (zombie)-01spawner (zombie)-01
+Sponge-01sponge-01
+Spruce Button-01spruce planks-01
+Spruce Door-02spruce planks-01
+Spruce Door (lower)-04spruce planks-01
+Spruce Fence-04spruce planks*02any planks-03
+Spruce Fence Gate-02any planks*02spruce planks-01
+Spruce Log-01spruce log-01
+Spruce Log (side)-01spruce log-01
+Spruce Planks-01spruce planks-01
+Spruce Pressure Plate-02spruce planks-01
+Spruce Sapling-01spruce sapling-01
+Spruce Standing Sign-06spruce planks*02any planks-03
+Spruce Wall Sign-06spruce planks*02any planks-03
+Spruce Slab-03spruce planks-06
+Spruce Stairs-06spruce planks-04
+Spruce Trapdoor-06spruce planks-02
+Spruce Wood (1)-04spruce logs-03
+Spruce Leaves-01spruce leaves-01
+Sunflower-01sunflower-01
+Sticky Piston-03any planks*01iron ingot*01redstone dust*04cobblestone*01slimeball-01
+Sticky Piston (north)-03any planks*01iron ingot*01redstone dust*04cobblestone*01slimeball-01
+Sticky Piston (south)-03any planks*01iron ingot*01redstone dust*04cobblestone*01slimeball-01
+Sticky Piston (east)-03any planks*01iron ingot*01redstone dust*04cobblestone*01slimeball-01
+Sticky Piston (west)-03any planks*01iron ingot*01redstone dust*04cobblestone*01slimeball-01
+Sticky Piston (down)-03any planks*01iron ingot*01redstone dust*04cobblestone*01slimeball-01
+Stone-01stone-01
+Stone Bricks-04stone-04
+Stone Brick Slab-04stone-02
+Stone Brick Stairs-07cobblestone*07vines-04
+Stone Brick Wall-06cobblestone-01
+Stone Button-01cobblestone-01
+Stone Pressure Plate-02cobblestone-01
+Stone Slab-04stone-02
+Stone Stairs-07cobblestone-04
+Stonecutter-03stone*01iron ingot-01
+Stripped Acacia Log-01acacia log-01
+Stripped Acacia Log (side)-01acacia log-01
+Stripped Acacia Wood-04acacia log-01
+Stripped Birch Log-01birch log-01
+Stripped Birch Log (side)-01birch log-01
+Stripped Birch Wood-04birch log-01
+Stripped Crimson Stem-01crimson stem-01
+Stripped Crimson Stem (side)-01crimson stem-01
+Stripped Crimson Hyphae-04crimson stem-01
+Stripped Dark Oak Log-01dark oak log-01
+Stripped Dark Oak Log (side)-01dark oak log-01
+Stripped Jungle Log-01jungle log-01
+Stripped Jungle Log (side)-01jungle log-01
+Stripped Jungle Wood-04jungle log-01
+Stripped Oak Log-01oak log-01
+Stripped Oak Log (side)-01oak log-01
+Stripped Oak Wood-04oak log-01
+Stripped Spruce Log-01spruce log-01
+Stripped Spruce Log (side)-01spruce log-01
+Stripped Spruce Wood-04spruce log-01
+Stripped Warped Stem-01warped stem-01
+Stripped Warped Stem (side)-01warped stem-01
+Stripped Warped Hyphae-04warped stem-01
+Sugarcane-01sugarcane-01
+Sweet Berry Bush-01sweet berry bush-01
+Tall Grass-01tall grass-01
+Tall Seagrass-01tall seagrass-01
+Tall Seagrass (top)-01tall seagrass-01
+Target-04redstone dust*09wheat-01
+Terracotta-01clay-01
+Torch-02any wooden planks*01coal-04
+TNT-04sand*05gunpowder-01
+Trapped Chest-011any planks*01string-01
+Tripwire Hook-03any planks*01iron ingot-01
+Tripwire-01string-01
+Tube Coral-01tube coral-01
+Tube Coral Block-01tube coral block-01
+Tube Coral Fan-01tube coral fan-01
+Vines-01vines-01
+Wall Torch-02any wooden planks*01coal-04
+Water-01water-01
+Warped Button-01warped planks-01
+Warped Door-02warped planks-01
+Warped Door (lower)-04warped planks-01
+Warped Fence-02warped planks*02any planks-01
+Warped Fence Gate-02any planks*02warped planks-01
+Warped Fungus-01warped fungus-01
+Warped Hyphae-04warped stem-03
+Warped Nylium-01warped nylium-03
+Warped Planks-01warped planks-01
+Warped Pressure Plate-02warped planks-01
+Warped Standing Sign-02any planks*06warped planks-01
+Warped Wall Sign-02any planks*06warped planks-01
+Warped Roots-01warped roots-01
+Warped Slab-04warped stem-06
+Warped Stairs-07warped planks-04
+Warped Stem-01warped stem-01
+Warped Stem (side)-01warped stem-01
+Warped Trapdoor-06warped planks-01
+White Tulip-01white tulip-01
+Wet Sponge-01sponge-01
+Wheat-01wheat-01
+White Bed-01white wool*01any planks-01
+White Bed (foot)-02white wool*02any planks-01
+White Carpet-02white wool-03
+White Concrete Powder-04sand*01bone meal*04gravel-08
+White Glazed Terracotta-01clay*01bone meal-08
+White Stained Glass-08glass*01bone meal-16
+White Stained Glass Pane-08glass*01bone meal-16
+White Terracotta-01clay*01bone meal-08
+White Wool-01white wool-01
+Wither Rose-01wither rose-01
+Wither Skeleton Skull-01wither skeleton skull-01
+Yellow Bed-01any planks*01white wool*01dandelion-01
+Yellow Bed (foot)-02any planks*02white wool*02dandelion-01
+Yellow Carpet-02white wool*02dandelion-03
+Yellow Concrete Powder-04sand*01dandelion*04gravel-08
+Yellow Glazed Terracotta-01clay*01dandelion-08
+Yellow Stained Glass-01glass*01dandelion-16
+Yellow Stained Glass Pane-08glass*01dandelion-16
+Yellow Terracotta-01clay*01dandelion-08
+Yellow Wool-01white wool*01dandelion-01
+Zombie Head-01zombie head-01

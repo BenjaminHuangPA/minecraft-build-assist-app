@@ -1,0 +1,762 @@
+Acacia Door-acacia_door
+Acacia Fence Gate-acacia_fence_gate
+Acacia Fence-acacia_fence
+Acacia Leaves-acacia_leaves
+Acacia Log-acacia_log
+Acacia Planks-acacia_planks
+Acacia Pressure Plate-acacia_pressure_plate
+Acacia Sapling-acacia_sapling
+Acacia Standing Sign-acacia_sign
+Acacia Slab-acacia_slab
+Acacia Stairs-acacia_stairs
+Acacia Trapdoor-acacia_trapdoor
+Acacia Sign-acacia_wall_sign
+Acacia Wood-acacia_wood
+Activator Rail-activator_rail
+Air-air
+Allium-allium
+Ancient Debris-ancient_debris
+Andesite-andesite
+Andesite Slab-andesite_slab
+Andesite Stairs-andesite_stairs
+Andesite Wall-andesite_wall
+Anvil-anvil
+Attached Stem-attached_melon_stem
+Attached Stem-attached_pumpkin_stem
+Azure Bluet-azure_bluet
+Leafless Bamboo-bamboo
+Bamboo Shoot-bamboo_sapling
+Barrel-barrel
+Barrier-barrier
+Basalt-basalt
+Beacon-beacon
+Bedrock-bedrock
+Beehive-beehive
+Bee Nest-bee_nest
+Beetroots-beetroots
+Bell-bell
+Birch Button-birch_button
+Birch Door-birch_door
+Birch Fence Gate-birch_fence_gate
+Birch Fence-birch_fence
+Birch Leaves-birch_leaves
+Birch Log-birch_log
+Birch Planks-birch_planks
+Birch Pressure Plate-birch_pressure_plate
+Birch Sapling-birch_sapling
+Birch Sign-birch_sign
+Birch Slab-birch_slab
+Birch Stairs-birch_stairs
+Birch Trapdoor-birch_trapdoor
+Birch Wall Sign-birch_wall_sign
+Birch Wood-birch_wood
+Black Banner-black_banner
+Black Bed-black_bed
+Black Carpet-black_carpet
+Black Concrete Powder-black_concrete_powder
+Black Concrete-black_concrete
+Black Glazed Terracotta-black_glazed_terracotta
+Black Shulker Box-black_shulker_box
+Black Stained Glass-black_stained_glass
+Black Stained Glass Pane-black_stained_glass_pane
+Black Terracotta-black_terracotta
+Black Wall-black_wall_banner
+Black Wool-black_wool
+Blackstone-blackstone
+Blackstone Slab-blackstone_slab
+Blackstone Stairs-blackstone_stairs
+Blackstone Wall-blackstone_wall
+Blast Furnace-blast_furnace
+Blue Banner-blue_banner
+Blue Bed-blue_bed
+Blue Carpet-blue_carpet
+Blue Concrete Powder-blue_concrete_powder
+Blue Concrete-blue_concrete
+Blue Glazed Terracotta-blue_glazed_terracotta
+Blue Ice-blue_ice
+Blue Orchid-blue_orchid
+Blue Shulker Box-blue_shulker_box
+Blue Stained Glass-blue_stained_glass
+Blue Stained Glass Pane-blue_stained_glass_pane
+Blue Terracotta-blue_terracotta
+Blue Wall Banner-blue_wall_banner
+Blue Wool-blue_wool
+Bone Block-bone_block
+Bookshelf-bookshelf
+Brain Coral-brain_coral
+Brain Coral Block-brain_coral_block
+Brain Coral Fan-brain_coral_fan
+Brain Coral Wall Fan-brain_coral_wall_fan
+Brewing Stand-brewing_stand
+Brick Slab-brick_slab
+Brick Stairs-brick_stairs
+Brick Wall-brick_wall
+Bricks-bricks
+Brown Banner-brown_banner
+Brown Bed-brown_bed
+Brown Carpet-brown_carpet
+Brown Concrete Powder-brown_concrete_powder
+Brown Concrete-brown_concrete
+Brown Glazed Terracotta-brown_glazed_terracotta
+Brown Mushroom Block-brown_mushroom_block
+Brown Mushroom-brown_mushroom
+Brown Shulker Box-brown_shulker_box
+Brown Stained Glass-brown_stained_glass
+Brown Stained Glass Pane-brown_stained_glass_pane
+Brown Terracotta-brown_terracotta
+Brown Wall Banner-brown_wall_banner
+Brown Wool-brown_wool
+Bubble Column-bubble_column
+Bubble Coral-bubble_coral
+Bubble Coral Block-bubble_coral_block
+Bubble Coral Fan-bubble_coral_fan
+Bubble Coral Wall Fan-bubble_coral_wall_fan
+Cactus-cactus
+Cake-cake
+Campfire-campfire
+Carrots-carrots
+Cartography Table-cartography_table
+Carved Pumpkin-carved_pumpkin
+Cauldron-cauldron
+Cave Air-cave_air
+Chain-chain
+Chain Command Block-chain_command_block
+Chest-chest
+Chipped Anvil-chipped_anvil
+Chiseled Nether Bricks-chiseled_nether_bricks
+Chiseled Polished Blackstone-chiseled_polished_blackstone
+Chiseled Quartz Block-chiseled_quartz_block
+Chiseled Red Sandstone-chiseled_red_sandstone
+Chiseled Sandstone-chiseled_sandstone
+Chiseled Stone Bricks-chiseled_stone_bricks
+Chorus Flower-chorus_flower
+Chorus Plant-chorus_plant
+Clay-clay
+Block of Coal-coal_block
+Coal Ore-coal_ore
+Coarse Dirt-coarse_dirt
+Cobblestone-cobblestone
+Cobblestone-cobblestone_slab
+Cobblestone Stairs-cobblestone_stairs
+Cobblestone Wall-cobblestone_wall
+Cobweb-cobweb
+Cocoa-cocoa
+Impulse Command Block-command_block
+Redstone Comparator-comparator
+Composter-composter
+Conduit-conduit
+Cornflower-cornflower
+Cracked Nether Bricks-cracked_nether_bricks
+Cracked Polished Blackstone Bricks-cracked_polished_blackstone_bricks
+Cracked Stone Bricks-cracked_stone_bricks
+Crafting Table-crafting_table
+Creeper Head-creeper_head
+Creeper Head-creeper_wall_head
+Crimson Button-crimson_button
+Crimson Door-crimson_door
+Crimson Fence Gate-crimson_fence_gate
+Crimson Fence-crimson_fence
+Crimson Fungus-crimson_fungus
+Crimson Hyphae-crimson_hyphae
+Crimson Nylium-crimson_nylium
+Crimson Planks-crimson_planks
+Crimson Pressure Plate-crimson_pressure_plate
+Crimson Roots-crimson_roots
+Crimson Standing Sign-crimson_sign
+Crimson Slab-crimson_slab
+Crimson Stairs-crimson_stairs
+Crimson Stem-crimson_stem
+Crimson Trapdoor-crimson_trapdoor
+Crimson Wall Sign-crimson_wall_sign
+Crying Obsidian-crying_obsidian
+Cut Red Sandstone-cut_red_sandstone
+Cut Red Sandstone Slab-cut_red_sandstone_slab
+Cut Sandstone-cut_sandstone
+Cut Sandstone Slab-cut_sandstone_slab
+Cyan Banner-cyan_banner
+Cyan Bed-cyan_bed
+Cyan Carpet-cyan_carpet
+Cyan Concrete Powder-cyan_concrete_powder
+Cyan Concrete-cyan_concrete
+Cyan Glazed Terracotta-cyan_glazed_terracotta
+Cyan Shulker Box-cyan_shulker_box
+Cyan Stained Glass-cyan_stained_glass
+Cyan Stained Glass Pane-cyan_stained_glass_pane
+Cyan Terracotta-cyan_terracotta
+Cyan Wall Banner-cyan_wall_banner
+Cyan Wool-cyan_wool
+Damaged Anvil-damaged_anvil
+Dandelion-dandelion
+Dark Oak Button-dark_oak_button
+Dark Oak Door-dark_oak_door
+Dark Oak Fence Gate-dark_oak_fence_gate
+Dark Oak Fence-dark_oak_fence
+Dark Oak Leaves-dark_oak_leaves
+Dark Oak Log-dark_oak_log
+Dark Oak Planks-dark_oak_planks
+Dark Oak Pressure Plate-dark_oak_pressure_plate
+Dark Oak Sapling-dark_oak_sapling
+Dark Oak Sign-dark_oak_sign
+Dark Oak Slab-dark_oak_slab
+Dark Oak Stairs-dark_oak_stairs
+Dark Oak Trapdoor-dark_oak_trapdoor
+Dark Oak Wall Sign-dark_oak_wall_sign
+Dark Oak Wood-dark_oak_wood
+Dark Prismarine-dark_prismarine
+Dark Prismarine Slab-dark_prismarine_slab
+Dark Prismarine Stairs-dark_prismarine_stairs
+Daylight Detector-daylight_detector
+Dead Brain Coral-dead_brain_coral
+Dead Brain Coral Block-dead_brain_coral_block
+Dead Brain Coral Fan-dead_brain_coral_fan
+Dead Brain Coral Wall Fan-dead_brain_coral_wall_fan
+Dead Bubble Coral-dead_bubble_coral
+Dead Bubble Coral Block-dead_bubble_coral_block
+Dead Bubble Coral Fan-dead_bubble_coral_fan
+Dead Bubble Coral Wall Fan-dead_bubble_coral_wall_fan
+Dead Bush-dead_bush
+Dead Fire Coral-dead_fire_coral
+Dead Fire Coral Block-dead_fire_coral_block
+Dead Fire Coral Fan-dead_fire_coral_fan
+Dead Fire Coral Wall Fan-dead_fire_coral_wall_fan
+Dead Horn Coral-dead_horn_coral
+Dead Horn Coral Block-dead_horn_coral_block
+Dead Horn Coral Fan-dead_horn_coral_fan
+Dead Horn Coral Wall Fan-dead_horn_coral_wall_fan
+Dead Tube Coral-dead_tube_coral
+Dead Tube Coral Block-dead_tube_coral_block
+Dead Tube Coral Fan-dead_tube_coral_fan
+Dead Tube Coral Wall Fan-dead_tube_coral_wall_fan
+Detector Rail-detector_rail
+Block of Diamond-diamond_block
+Diamond Ore-diamond_ore
+Diorite-diorite
+Diorite Slab-diorite_slab
+Diorite Stairs-diorite_stairs
+Diorite Wall-diorite_wall
+Dirt-dirt
+Dispenser-dispenser
+Dragon Egg-dragon_egg
+Dragon Head-dragon_head
+Dragon Head-dragon_wall_head
+Dried Kelp Block-dried_kelp_block
+Dropper-dropper
+Block of Emerald-emerald_block
+Emerald Ore-emerald_ore
+Enchanting Table-enchanting_table
+End Gateway-end_gateway
+End Portal Frame-end_portal_frame
+End Portal-end_portal
+End Rod-end_rod
+End Stone-end_stone
+End Stone Brick Slab-end_stone_brick_slab
+End Stone Brick Stairs-end_stone_brick_stairs
+End Stone Brick Wall-end_stone_brick_wall
+End Stone Bricks-end_stone_bricks
+Ender Chest-ender_chest
+Farmland-farmland
+Fern-fern
+Fire-fire
+Fire Coral-fire_coral
+Fire Coral Block-fire_coral_block
+Fire Coral Fan-fire_coral_fan
+Fire Coral Wall Fan-fire_coral_wall_fan
+Fletching Table-fletching_table
+Flower Pot-flower_pot
+Frosted Ice-frosted_ice
+Furnace-furnace
+Gilded Blackstone-gilded_blackstone
+Glass-glass
+Glass Pane-glass_pane
+Glowstone-glowstone
+Block of Gold-gold_block
+Gold Ore-gold_ore
+Granite-granite
+Granite Slab-granite_slab
+Granite Stairs-granite_stairs
+Granite Wall-granite_wall
+Grass Block-grass_block
+Grass Path-grass_path
+Grass-grass
+Gravel-gravel
+Gray Banner-gray_banner
+Gray Bed-gray_bed
+Gray Carpet-gray_carpet
+Gray Concrete Powder-gray_concrete_powder
+Gray Concrete-gray_concrete
+Gray Glazed Terracotta-gray_glazed_terracotta
+Gray Shulker Box-gray_shulker_box
+Gray Stained Glass-gray_stained_glass
+Gray Stained Glass Pane-gray_stained_glass_pane
+Gray Terracotta-gray_terracotta
+Gray Wall Banner-gray_wall_banner
+Gray Wool-gray_wool
+Green Banner-green_banner
+Green Bed-green_bed
+Green Carpet-green_carpet
+Green Concrete Powder-green_concrete_powder
+Green Concrete-green_concrete
+Green Glazed Terracotta-green_glazed_terracotta
+Green Shulker Box-green_shulker_box
+Green Stained Glass-green_stained_glass
+Green Stained Glass Pane-green_stained_glass_pane
+Green Terracotta-green_terracotta
+Green Wall Banner-green_wall_banner
+Green Wool-green_wool
+Grindstone-grindstone
+Hay Bale-hay_block
+Heavy Weighted Pressure Plate-heavy_weighted_pressure_plate
+Hopper-hopper
+Honey Block-honey_block
+Honeycomb Block-honeycomb_block
+Horn Coral-horn_coral
+Horn Coral Block-horn_coral_block
+Horn Coral Fan-horn_coral_fan
+Horn Coral Wall Fan-horn_coral_wall_fan
+Ice-ice
+Chiseled Stone Bricks-infested_chiseled_stone_bricks
+Cobblestone-infested_cobblestone
+Cracked Stone Bricks-infested_cracked_stone_bricks
+Mossy Stone Bricks-infested_mossy_stone_bricks
+Stone-infested_stone
+Stone Bricks-infested_stone_bricks
+Iron Bars-iron_bars
+Iron Door-iron_door
+Block of Iron-iron_block
+Iron Ore-iron_ore
+Iron Trapdoor-iron_trapdoor
+Jack o' Lantern-jack_o_lantern
+Jigsaw Block-jigsaw
+Jukebox-jukebox
+Jungle Button-jungle_button
+Jungle Door-jungle_door
+Jungle Fence Gate-jungle_fence_gate
+Jungle Fence-jungle_fence
+Jungle Leaves-jungle_leaves
+Jungle Log-jungle_log
+Jungle Planks-jungle_planks
+Jungle Pressure Plate-jungle_pressure_plate
+Jungle Sapling-jungle_sapling
+Jungle Standing Sign-jungle_sign
+Jungle Slab-jungle_slab
+Jungle Stairs-jungle_stairs
+Jungle Trapdoor-jungle_trapdoor
+Jungle Wall Sign-jungle_wall_sign
+Jungle Wood-jungle_wood
+Kelp-kelp
+Kelp Plant-kelp_plant
+Ladder-ladder
+Lantern-lantern
+Lapis Lazuli Block-lapis_block
+Lapis Lazuli Ore-lapis_ore
+Large Fern-large_fern
+Lava-lava
+Lectern-lectern
+Wall Lever-lever
+Light Blue Banner-light_blue_banner
+Light Blue Bed-light_blue_bed
+Light Blue Carpet-light_blue_carpet
+Light Blue Concrete Powder-light_blue_concrete_powder
+Light Blue Concrete-light_blue_concrete
+Light Blue Glazed Terracotta-light_blue_glazed_terracotta
+Light Blue Shulker Box-light_blue_shulker_box
+Light Blue Stained Glass-light_blue_stained_glass
+Light Blue Stained Glass Pane-light_blue_stained_glass_pane
+Light Blue Terracotta-light_blue_terracotta
+Light Blue Wall Banner-light_blue_wall_banner
+Light Blue Wool-light_blue_wool
+Light Gray Banner-light_gray_banner
+Light Gray Bed-light_gray_bed
+Light Gray Carpet-light_gray_carpet
+Light Gray Concrete Powder-light_gray_concrete_powder
+Light Gray Concrete-light_gray_concrete
+Light Gray Glazed Terracotta-light_gray_glazed_terracotta
+Light Gray Shulker Box-light_gray_shulker_box
+Light Gray Stained Glass-light_gray_stained_glass
+Light Gray Stained Glass Pane-light_gray_stained_glass_pane
+Light Gray Terracotta-light_gray_terracotta
+Light Gray Wall Banner-light_gray_wall_banner
+Light Gray Wool-light_gray_wool
+Light Weighted Pressure Plate-light_weighted_pressure_plate
+Lilac-lilac
+Lily Pad-lily_pad
+Lily of the Valley-lily_of_the_valley
+Lime Banner-lime_banner
+Lime Bed-lime_bed
+Lime Carpet-lime_carpet
+Lime Concrete Powder-lime_concrete_powder
+Lime Concrete-lime_concrete
+Lime Glazed Terracotta-lime_glazed_terracotta
+Lime Shulker Box-lime_shulker_box
+Lime Stained Glass-lime_stained_glass
+Lime Stained Glass Pane-lime_stained_glass_pane
+Lime Terracotta-lime_terracotta
+Lime Wall Banner-lime_wall_banner
+Lime Wool-lime_wool
+Lodestone-lodestone
+Loom-loom
+Magenta Banner-magenta_banner
+Magenta Bed-magenta_bed
+Magenta Carpet-magenta_carpet
+Magenta Concrete Powder-magenta_concrete_powder
+Magenta Concrete-magenta_concrete
+Magenta Glazed Terracotta-magenta_glazed_terracotta
+Magenta Shulker Box-magenta_shulker_box
+Magenta Stained Glass-magenta_stained_glass
+Magenta Stained Glass Pane-magenta_stained_glass_pane
+Magenta Terracotta-magenta_terracotta
+Magenta Wall Banner-magenta_wall_banner
+Magenta Wool-magenta_wool
+Magma Block-magma_block
+Melon-melon
+Stem-melon_stem
+Mossy Cobblestone-mossy_cobblestone
+Mossy Cobblestone Slab-mossy_cobblestone_slab
+Mossy Cobblestone Stairs-mossy_cobblestone_stairs
+Mossy Cobblestone Wall-mossy_cobblestone_wall
+Mossy Stone Brick Slab-mossy_stone_brick_slab
+Mossy Stone Brick Stairs-mossy_stone_brick_stairs
+Mossy Stone Brick Wall-mossy_stone_brick_wall
+Mossy Stone Bricks-mossy_stone_bricks
+Moving Piston-moving_piston
+Mushroom Stem-mushroom_stem
+Mycelium-mycelium
+Nether Brick Fence-nether_brick_fence
+Nether Brick Slab-nether_brick_slab
+Nether Brick Stairs-nether_brick_stairs
+Nether Brick Wall-nether_brick_wall
+Nether Bricks-nether_bricks
+Nether Gold Ore-nether_gold_ore
+Nether Portal-nether_portal
+Nether Quartz Ore-nether_quartz_ore
+Nether Sprouts-nether_sprouts
+Nether Wart Block-nether_wart_block
+Nether Wart-	nether_wart
+Block of Netherite-netherite_block
+Netherrack-netherrack
+Note Block-note_block
+Oak Button-oak_button
+Oak Door-oak_door
+Oak Fence Gate-oak_fence_gate
+Oak Fence-oak_fence
+Oak Leaves-oak_leaves
+Oak Log-oak_log
+Oak Planks-oak_planks
+Oak Pressure Plate-oak_pressure_plate
+Oak Sapling-oak_sapling
+Oak Standing Sign-oak_sign
+Oak Slab-oak_slab
+Oak Stairs-oak_stairs
+Oak Trapdoor-oak_trapdoor
+Oak Wall Sign-oak_wall_sign
+Oak Wood-oak_wood
+Observer-observer
+Obsidian-obsidian
+Orange Banner-orange_banner
+Orange Bed-orange_bed
+Orange Carpet-orange_carpet
+Orange Concrete Powder-orange_concrete_powder
+Orange Concrete-orange_concrete
+Orange Glazed Terracotta-orange_glazed_terracotta
+Orange Shulker Box-orange_shulker_box
+Orange Stained Glass-orange_stained_glass
+Orange Stained Glass Pane-orange_stained_glass_pane
+Orange Terracotta-orange_terracotta
+Orange Tulip-orange_tulip
+Orange Wall Banner-orange_wall_banner
+Orange Wool-orange_wool
+Oxeye Daisy-oxeye_daisy
+Packed Ice-packed_ice
+Peony-peony
+Oak Slab-petrified_oak_slab
+Pink Banner-pink_banner
+Pink Bed-pink_bed
+Pink Carpet-pink_carpet
+Pink Concrete Powder-pink_concrete_powder
+Pink Concrete-pink_concrete
+Pink Glazed Terracotta-pink_glazed_terracotta
+Pink Shulker Box-pink_shulker_box
+Pink Stained Glass-pink_stained_glass
+Pink Stained Glass Pane-pink_stained_glass_pane
+Pink Terracotta-pink_terracotta
+Pink Tulip-pink_tulip
+Pink Wall Banner-pink_wall_banner
+Pink Wool-pink_wool
+Piston Head-piston_head
+Piston-piston
+Player Head-player_head
+Player Head-player_wall_head
+Podzol-podzol
+Polished Andesite-polished_andesite
+Polished Andesite Slab-polished_andesite_slab
+Polished Andesite Stairs-polished_andesite_stairs
+Polished Basalt-polished_basalt
+Polished Blackstone-polished_blackstone
+Polished Blackstone Brick Slab-polished_blackstone_brick_slab
+Polished Blackstone Brick Stairs-polished_blackstone_brick_stairs
+Polished Blackstone Brick Wall-polished_blackstone_brick_wall
+Polished Blackstone Bricks-polished_blackstone_bricks
+Polished Blackstone Button-polished_blackstone_button
+Polished Blackstone Pressure Plate-polished_blackstone_pressure_plate
+Polished Blackstone Slab-polished_blackstone_slab
+Polished Blackstone Stairs-polished_blackstone_stairs
+Polished Blackstone Wall-polished_blackstone_wall
+Polished Diorite-polished_diorite
+Polished Diorite Slab-polished_diorite_slab
+Polished Diorite Stairs-polished_diorite_stairs
+Polished Granite-polished_granite
+Polished Granite Slab-polished_granite_slab
+Polished Granite Stairs-polished_granite_stairs
+Poppy-poppy
+Potatoes-potatoes
+Potted Acacia Sapling-potted_acacia_sapling
+Potted Allium-potted_allium
+Potted Azure Bluet-potted_azure_bluet
+Potted Bamboo-potted_bamboo
+Potted Birch Sapling-potted_birch_sapling
+Potted Blue Orchid-potted_blue_orchid
+Potted Brown Mushroom-potted_brown_mushroom
+Potted Cactus-potted_cactus
+Potted Cornflower-potted_cornflower
+Potted Crimson Fungus-potted_crimson_fungus
+Potted Crimson Roots-potted_crimson_roots
+Potted Dandelion-potted_dandelion
+Potted Dark Oak Sapling-potted_dark_oak_sapling
+Potted Dead Bush-potted_dead_bush
+Potted Fern-potted_fern
+Potted Jungle Sapling-potted_jungle_sapling
+Potted Lily of the Valley-potted_lily_of_the_valley
+Potted Oak Sapling-potted_oak_sapling
+Potted Orange Tulip-potted_orange_tulip
+Potted Oxeye Daisy-potted_oxeye_daisy
+Potted Pink Tulip-potted_pink_tulip
+Potted Poppy-potted_poppy
+Potted Red Mushroom-potted_red_mushroom
+Potted Red Tulip-potted_red_tulip
+Potted Spruce Sapling-potted_spruce_sapling
+Potted Warped Fungus-potted_warped_fungus
+Potted Warped Roots-potted_warped_roots
+Potted White Tulip-potted_white_tulip
+Potted Wither Rose-potted_wither_rose
+Powered Rail-powered_rail
+Prismarine-prismarine
+Prismarine Brick Slab-prismarine_brick_slab
+Prismarine Brick Stairs-prismarine_brick_stairs
+Prismarine Bricks-prismarine_bricks
+Prismarine Slab-prismarine_slab
+Prismarine Stairs-prismarine_stairs
+Prismarine Wall-prismarine_wall
+Pumpkin-pumpkin
+Stem-pumpkin_stem
+Purple Banner-purple_banner
+Purple Bed-purple_bed
+Purple Carpet-purple_carpet
+Purple Concrete Powder-purple_concrete_powder
+Purple Concrete-purple_concrete
+Purple Glazed Terracotta-purple_glazed_terracotta
+Purple Shulker Box-purple_shulker_box
+Purple Stained Glass-purple_stained_glass
+Purple Stained Glass Pane-purple_stained_glass_pane
+Purple Terracotta-purple_terracotta
+Purple Wall Banner-purple_wall_banner
+Purple Wool-purple_wool
+Purpur Block-purpur_block
+Purpur Pillar-purpur_pillar
+Purpur Slab-purpur_slab
+Purpur Stairs-purpur_stairs
+Block of Quartz-quartz_block
+Quartz Bricks-quartz_bricks
+Quartz Pillar-quartz_pillar
+Quartz Slab-quartz_slab
+Quartz Stairs-quartz_stairs
+Rail-rail
+Red Banner-red_banner
+Red Bed-red_bed
+Red Carpet-red_carpet
+Red Concrete Powder-red_concrete_powder
+Red Concrete-red_concrete
+Red Glazed Terracotta-red_glazed_terracotta
+Red Mushroom Block-red_mushroom_block
+Red Mushroom-red_mushroom
+Red Nether Brick Slab-red_nether_brick_slab
+Red Nether Brick Stairs-red_nether_brick_stairs
+Red Nether Brick Wall-red_nether_brick_wall
+Red Nether Bricks-red_nether_bricks
+Red Sand-red_sand
+Red Sandstone-red_sandstone
+Red Sandstone Slab-red_sandstone_slab
+Red Sandstone Stairs-red_sandstone_stairs
+Red Sandstone Wall-red_sandstone_wall
+Red Shulker Box-red_shulker_box
+Red Stained Glass-red_stained_glass
+Red Stained Glass Pane-red_stained_glass_pane
+Red Terracotta-red_terracotta
+Red Tulip-red_tulip
+Red Wall Banner-red_wall_banner
+Red Wool-red_wool
+Respawn Anchor-respawn_anchor
+Block of Redstone-redstone_block
+Redstone Lamp-redstone_lamp
+Redstone Ore-redstone_ore
+Redstone Torch-redstone_torch
+Redstone Torch-redstone_wall_torch
+Redstone-redstone_wire
+Redstone Repeater-repeater
+Repeating Command Block-repeating_command_block
+Rose Bush-rose_bush
+Sand-sand
+Sandstone-sandstone
+Sandstone Slab-sandstone_slab
+Sandstone Stairs-sandstone_stairs
+Sandstone Wall-sandstone_wall
+Scaffolding-scaffolding
+Sea Lantern-sea_lantern
+Sea Pickle-sea_pickle
+Seagrass-seagrass
+Shroomlight-shroomlight
+Shulker Box-shulker_box
+Skeleton Skull-skeleton_skull
+Skeleton Skull-skeleton_wall_skull
+Slime Block-slime_block
+Smithing Table-smithing_table
+Smoker-smoker
+Smooth Quartz Block-smooth_quartz
+Smooth Quartz Slab-smooth_quartz_slab
+Smooth Quartz Stairs-smooth_quartz_stairs
+Smooth Red Sandstone-smooth_red_sandstone
+Smooth Red Sandstone Slab-smooth_red_sandstone_slab
+Smooth Red Sandstone Stairs-smooth_red_sandstone_stairs
+Smooth Sandstone-smooth_sandstone
+Smooth Sandstone Slab-smooth_sandstone_slab
+Smooth Sandstone Stairs-smooth_sandstone_stairs
+Smooth Stone-smooth_stone
+Smooth Stone Slab-smooth_stone_slab
+Snow Block-snow_block
+Snow-snow
+Soul Campfire-soul_campfire
+Soul Fire-soul_fire
+Soul Lantern-soul_lantern
+Soul Sand-soul_sand
+Soul Soil-soul_soil
+Soul Torch-soul_torch
+Soul Wall-soul_wall_torch
+Spawner-spawner
+Sponge-sponge
+Spruce Button-spruce_button
+Spruce Door-spruce_door
+Spruce Fence Gate-spruce_fence_gate
+Spruce Fence-spruce_fence
+Spruce Leaves-spruce_leaves
+Spruce Log-spruce_log
+Spruce Planks-spruce_planks
+Spruce Pressure Plate-spruce_pressure_plate
+Spruce Sapling-spruce_sapling
+Spruce Standing Sign-spruce_sign
+Spruce Slab-spruce_slab
+Spruce Stairs-spruce_stairs
+Spruce Trapdoor-spruce_trapdoor
+Spruce Wall Sign-spruce_wall_sign
+Spruce Wood-spruce_wood
+Sticky Piston-sticky_piston
+Stone-stone
+Stone Brick Slab-stone_brick_slab
+Stone Brick Stairs-stone_brick_stairs
+Stone Brick Wall-stone_brick_wall
+Stone Bricks-stone_bricks
+Stone Button-stone_button
+Stone Pressure Plate-stone_pressure_plate
+Stone Slab-stone_slab
+Stone Stairs-stone_stairs
+Stonecutter-stonecutter
+Stripped Acacia Log-stripped_acacia_log
+Stripped Acacia Wood-stripped_acacia_wood
+Stripped Birch Log-stripped_birch_log
+Stripped Birch Wood-stripped_birch_wood
+Stripped Crimson Hyphae-stripped_crimson_hyphae
+Stripped Crimson Stem-stripped_crimson_stem
+Stripped Dark Oak Log-stripped_dark_oak_log
+Stripped Dark Oak Wood-stripped_dark_oak_wood
+Stripped Jungle Log-stripped_jungle_log
+Stripped Jungle Wood-stripped_jungle_wood
+Stripped Oak Log-stripped_oak_log
+Stripped Oak Wood-stripped_oak_wood
+Stripped Spruce Log-stripped_spruce_log
+Stripped Spruce Wood-stripped_spruce_wood
+Stripped Warped Hyphae-stripped_warped_hyphae
+Stripped Warped Stem-stripped_warped_stem
+Structure Block-structure_block
+Structure Void-structure_void
+Sugar Cane-sugar_cane
+Sunflower-sunflower
+Sweet Berry Bush-sweet_berry_bush
+Tall Grass-tall_grass
+Tall Seagrass-tall_seagrass
+Target-target
+Terracotta-terracotta
+TNT-tnt
+Torch-torch
+Trapped Chest-trapped_chest
+Tripwire Hook-tripwire_hook
+Tripwire-tripwire
+Tube Coral-tube_coral
+Tube Coral Block-tube_coral_block
+Tube Coral Fan-tube_coral_fan
+Tube Coral Wall Fan-tube_coral_wall_fan
+Turtle Egg-turtle_egg
+Twisting Vines-twisting_vines
+Twisting Vines Plant-twisting_vines_plant
+Vines-vine
+Void Air-void_air
+Wall Torch-wall_torch
+Warped Button-warped_button
+Warped Door-warped_door
+Warped Fence Gate-warped_fence_gate
+Warped Fence-warped_fence
+Warped Fungus-warped_fungus
+Warped Hyphae-warped_hyphae
+Warped Nylium-warped_nylium
+Warped Planks-warped_planks
+Warped Pressure Plate-warped_pressure_plate
+Warped Roots-warped_roots
+Warped Standing Sign-warped_sign
+Warped Slab-warped_slab
+Warped Stairs-warped_stairs
+Warped Stem-warped_stem
+Warped Trapdoor-warped_trapdoor
+Warped Wall Sign-warped_wall_sign
+Warped Wart Block-warped_wart_block
+Water-water
+Weeping Vines-weeping_vines
+Weeping Vines-weeping_vines_plant
+Wet Sponge-wet_sponge
+Wheat-wheat
+White Banner-white_banner
+White Bed-white_bed
+White Carpet-white_carpet
+White Concrete Powder-white_concrete_powder
+White Concrete-white_concrete
+White Glazed Terracotta-white_glazed_terracotta
+White Shulker Box-white_shulker_box
+White Stained Glass-white_stained_glass
+White Stained Glass Pane-white_stained_glass_pane
+White Terracotta-white_terracotta
+White Tulip-white_tulip
+White Wall Banner-white_wall_banner
+White Wool-white_wool
+Wither Rose-wither_rose
+Wither Skeleton Skull-wither_skeleton_skull
+Wither Skeleton Skull-wither_skeleton_wall_skull
+Yellow Banner-yellow_banner
+Yellow Bed-yellow_bed
+Yellow Carpet-yellow_carpet
+Yellow Concrete Powder-yellow_concrete_powder
+Yellow Concrete-yellow_concrete
+Yellow Glazed Terracotta-yellow_glazed_terracotta
+Yellow Shulker Box-yellow_shulker_box
+Yellow Stained Glass-yellow_stained_glass
+Yellow Stained Glass Pane-yellow_stained_glass_pane
+Yellow Terracotta-yellow_terracotta
+Yellow Wall Banner-yellow_wall_banner
+Yellow Wool-yellow_wool
+Zombie Head-zombie_head
+Zombie Head-zombie_wall_head
